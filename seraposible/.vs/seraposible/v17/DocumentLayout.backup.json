@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\sfml\\seraposible\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Sfml\\seraposible\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF6CAB31-9AC1-4D51-A110-44B40BDB93DA}|seraposible.vcxproj|C:\\Users\\User\\Desktop\\sfml\\seraposible\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FF6CAB31-9AC1-4D51-A110-44B40BDB93DA}|seraposible.vcxproj|C:\\Users\\User\\Desktop\\Sfml\\seraposible\\Personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF6CAB31-9AC1-4D51-A110-44B40BDB93DA}|seraposible.vcxproj|solutionrelative:Personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6CAB31-9AC1-4D51-A110-44B40BDB93DA}|seraposible.vcxproj|C:\\Users\\User\\Desktop\\Sfml\\seraposible\\Personaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF6CAB31-9AC1-4D51-A110-44B40BDB93DA}|seraposible.vcxproj|solutionrelative:Personaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6CAB31-9AC1-4D51-A110-44B40BDB93DA}|seraposible.vcxproj|C:\\Users\\User\\Desktop\\Sfml\\seraposible\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FF6CAB31-9AC1-4D51-A110-44B40BDB93DA}|seraposible.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Personaje.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Sfml\\seraposible\\Personaje.cpp",
+              "RelativeDocumentMoniker": "Personaje.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Sfml\\seraposible\\Personaje.cpp",
+              "RelativeToolTip": "Personaje.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T02:53:13.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personaje.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Sfml\\seraposible\\Personaje.h",
+              "RelativeDocumentMoniker": "Personaje.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Sfml\\seraposible\\Personaje.h",
+              "RelativeToolTip": "Personaje.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-15T02:36:33.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\sfml\\seraposible\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Sfml\\seraposible\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\sfml\\seraposible\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Sfml\\seraposible\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-11T20:54:35.211Z",
               "EditorCaption": ""
